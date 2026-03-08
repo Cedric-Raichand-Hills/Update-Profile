@@ -83,7 +83,6 @@ form label{
   cursor: pointer;
   border-radius: 4px;
 }
-/* RESPONSIVE STYLES */
 @media (max-width: 768px) {
   .main-content {
     flex-direction: column;
